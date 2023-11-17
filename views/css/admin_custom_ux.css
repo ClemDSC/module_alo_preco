@@ -1,0 +1,25 @@
+.panel-collapsed .content {
+    display: none;
+}
+
+.panel-collapsed .panel-footer {
+    display: none;
+}
+
+.panel-collapsed .form-wrapper {
+    display: none;
+}
+
+#content.bootstrap .panel-collapsed .panel-heading {
+    margin-bottom: 0;
+}
+
+#content.bootstrap .panel-collapsed {
+    padding-bottom: 0;
+}
+
+#config_preco_panel .panel-heading,
+#alo_preco_preorder_form .panel-heading,
+#fieldset_0 .panel-heading {
+    cursor: pointer;
+}
